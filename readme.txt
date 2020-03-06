@@ -1,1 +1,2 @@
-本代码为视频实体链接实验相关代码，data文件夹下应存储本文数据集，数据集下载链接为：https://pan.baidu.com/s/1SsE4qn-Q9xu35eASjF06vg 提取码: d85b
+﻿本代码为视频实体链接实验相关代码，data文件夹下应存储本文数据集，数据集下载链接为：https://pan.baidu.com/s/1SsE4qn-Q9xu35eASjF06vg 提取码: d85b
+This code is related to the video entity link experiment. The data set of this paper should be stored in the data folder. The download link of the data set is: https://pan.baidu.com/s/1sse4qn-q9xu35easjf06vg extraction code: d85b
